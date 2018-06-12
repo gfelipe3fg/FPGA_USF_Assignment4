@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Sun Jun 10 15:31:59 2018
+# Process ID: 9684
+# Current directory: C:/Xilinx/Vivado/Projects/hw4-felipe-gutierrez/hw4-felipe-gutierrez.runs/synth_1
+# Command line: vivado.exe -log Timer.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Timer.tcl
+# Log file: C:/Xilinx/Vivado/Projects/hw4-felipe-gutierrez/hw4-felipe-gutierrez.runs/synth_1/Timer.vds
+# Journal file: C:/Xilinx/Vivado/Projects/hw4-felipe-gutierrez/hw4-felipe-gutierrez.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Timer.tcl -notrace
